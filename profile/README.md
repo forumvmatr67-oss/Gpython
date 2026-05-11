@@ -24,7 +24,7 @@
 ## 📊 Данные компании (JSON)
 ```json
 {
-  "company": "Sporim & Co",
+  "company": "Gpython",
   "created": "2026-05-11T10:00:00Z",
   "total_members": 4,
   "public_repos": 3,
