@@ -20,7 +20,7 @@
 ## 👥 Сотрудники (данные)
 | ID | Имя | Роль | GitHub username | Проект |
 |----|-----|------|----------------|--------|
-| 001 | Алексей Споров | CEO / Founder | @alex-sporim | Все |
+| 001 | Георгий Назаров | CEO / Founder | @alex-sporim | Все |
 | 002 | GitHub Actions | DevOps-бот | @actions-user | challenge-tracker |
 | 003 | Мария Данных | Data Engineer | @mdata | employee-generator |
 | 004 | ИИ-стажёр | Документация | @ai-intern | org-policies |
